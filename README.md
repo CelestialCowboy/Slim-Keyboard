@@ -30,5 +30,8 @@ Operates on an Rpi-Pico running 'Circuit Python'
   </tr>
 </table>
 
+**Product:**  
+![20251008_154510](https://github.com/user-attachments/assets/8fb0574a-e677-4105-8091-868863af7f18)
+
 **PCB:**  
-<img width="2251" height="770" alt="image" src="https://github.com/user-attachments/assets/f6d6b378-1464-4208-ac5c-4b5adf810f49" />
+<img width="2251" height="770" alt="image" src="https://github.com/user-attachments/assets/f6d6b378-1464-4208-ac5c-4b5adf810f49" />  
