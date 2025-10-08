@@ -28,3 +28,6 @@ A custom keyboard designed for a compacts layout with a slime profile
   </td>
   </tr>
 </table>
+
+**PCB:**  
+<img width="2251" height="770" alt="image" src="https://github.com/user-attachments/assets/f6d6b378-1464-4208-ac5c-4b5adf810f49" />
