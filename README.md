@@ -1,6 +1,6 @@
 # Slim-Keyboard
 
-A custom keyboard designed for a compacts layout with a slime profile.
+A custom keyboard designed for a compacts layout with a slime profile.   
 Operates on an Rpi-Pico running 'Circuit Python'
 
 **Critical Hardware:**  
